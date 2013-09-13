@@ -1,7 +1,5 @@
 <input type="text" name="fred" size="20">
 <BUTTON>Facebook</BUTTON>
-
-
 prompt("Go to Your Facebook Busines Page. Once there Tap Copy URL button and paste it into the TextBox")
 
 function copyURLtoClipboard()
