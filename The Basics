@@ -9,3 +9,6 @@ function copyURLtoClipboard()
 <button onclick=copyurl()">Copy Facebook Link</button>
 
 
+
+var nfc = require("ti.nfc");
+
