@@ -1,5 +1,5 @@
 <input type="text" name="fred" size="20">
-<button>Facebook</button>
+<button onclick="window.open('http://www.facebook.com/pages')">Facebook</button>
 prompt("Go to Your Facebook Busines Page. Once there Tap Copy URL button and paste it into the TextBox")
 
 function copyURLtoClipboard()
