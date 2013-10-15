@@ -1,9 +1,0 @@
-<input type="text" name="fblink" size="20">
-
-<button onclick="window.open('http://www.facebook.com/pages')">Facebook</button>
-
-prompt("Go to Your Facebook Busines Page. Once there Tap Copy URL button and paste it into the TextBox") //link will be open in the default browser
-
-
-var nfc = require("ti.nfc");// calls the nfc module
-
