@@ -109,8 +109,15 @@ var CaseID = Ti.UI.createTextField({
 
 
 button2.addEventListener('click',function(e){
-win2.close();
+
+	Titanium.Geolocation.getCurrentPosition;
 });
+
+button3.addEventListener('click',function(e){
+	Titanium.Geolocation.getCurrentPosition;
+	
+});
+
 
 view1.add(button1);
 
